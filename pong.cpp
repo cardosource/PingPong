@@ -20,11 +20,11 @@ int main() {
 	RenderWindow window(VideoMode(modWidth, mofHeight), "Pong");
 	window.setFramerateLimit(30);
 	//Image icone;
-	//icone.loadFromFile("/home/uut/Documentos/game_criado_c++/Pong/pong.png");
+	//icone.loadFromFile("pong.png");
 	//window.setIcon(200, 200, icone.getPixelsPtr());
 
 	Font fonte;
-	fonte.loadFromFile("/home/uut/Documentos/game_criado_c++/Pong/Tuffy.ttf");
+	fonte.loadFromFile("Tuffy.ttf");// file letter
 
 	Text intro;
 	intro.setFont(fonte);
