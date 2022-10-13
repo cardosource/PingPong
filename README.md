@@ -15,3 +15,4 @@ Ganha ponto ao ultrapssar o limite do adversário (a) sem que ocorra a rebater o
   
 </div>
 
+![](https://img.shields.io/badge/c%2B%2B-9.4.0-blue)
