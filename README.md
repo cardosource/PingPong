@@ -3,11 +3,13 @@
 Jogo:
 Iniciando desenvolvimentos de jogos com base em classicos 
 
+![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)
 
+
+<br/>
 
 Ganha ponto ao ultrapssar o limite do adversário (a) sem que ocorra a rebater o objeti lançado.
 
-![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)
 <div>
     <img src="https://raw.githubusercontent.com/cardosource/PingPong/main/pontoplay1.png" width="300"/>
   
