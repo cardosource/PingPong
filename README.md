@@ -1,8 +1,18 @@
-# ping pong, jogo classico da década de 70
+# ping pong
 
-Este projeto é uma implementação do jogo clássico Pong utilizando a biblioteca SFML. O objetivo do jogo é mover a bolinha na tela e evitar que ela saia dos limites da tela, e assim marcar pontos contra o oponente.
+Este jogo foi desenvolvido utilizando a biblioteca gráfica SFML (Simple and Fast Multimedia Library) e é uma versão simplificada do clássico jogo de arkanoid. O objetivo é mover as barras (jogadores 1 e 2) para evitar que a bola passe e marcar pontos ao fazer a bola passar pela barra do oponente.
 
-![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)
+Requisitos
+- Compilador C++
+- Biblioteca SFML
+- Arquivo de fonte (Tuffy.ttf)
+- Instalação       
+ Para instalar o SFML, basta seguir os passos descritos na página oficial: [SFML Instalação](https://www.sfml-dev.org/download.php)
+
+
+
+
+[![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
 
 
 <br/>
