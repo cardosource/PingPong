@@ -1,7 +1,6 @@
 # ping pong, jogo classico da década de 70
 
-Jogo:
-Iniciando desenvolvimentos de jogos com base em classicos 
+Este projeto é uma implementação do jogo clássico Pong utilizando a biblioteca SFML. O objetivo do jogo é mover a bolinha na tela e evitar que ela saia dos limites da tela, e assim marcar pontos contra o oponente.
 
 ![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)
 
