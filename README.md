@@ -10,6 +10,10 @@ Requisitos
  Para instalar o SFML, basta seguir os passos descritos na página oficial: [SFML Instalação](https://www.sfml-dev.org/download.php)
 
 
+Arquivos incluídos
+- main.cpp
+- Tuffy.ttf (fonte utilizada no jogo)
+
 
 
 [![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
