@@ -15,6 +15,14 @@ Arquivos incluídos
 - Tuffy.ttf (fonte utilizada no jogo)
 
 
+Variáveis e Definições
+- placarGamer1 e placarGamer2 armazenam o placar de cada jogador.
+- eixoX e eixoY armazenam as coordenadas da bola.
+- velocidade é a velocidade da bola.
+- dificuldade é a dificuldade do jogo.
+- modWidth e mofHeight são as dimensões da janela do jogo.
+
+
 
 [![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
 
