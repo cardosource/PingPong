@@ -23,6 +23,10 @@ Variáveis e Definições
 - modWidth e mofHeight são as dimensões da janela do jogo.
 
 
+Funcionamento
+
+O jogo é iniciado com uma tela de introdução com a mensagem "Pressione ENTER". Quando o jogador pressiona a tecla ENTER, a mensagem desaparece e o jogo começa.
+
 
 [![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
 
