@@ -27,6 +27,10 @@ Funcionamento
 
 O jogo é iniciado com uma tela de introdução com a mensagem "Pressione ENTER". Quando o jogador pressiona a tecla ENTER, a mensagem desaparece e o jogo começa.
 
+As barras dos jogadores se movem na vertical ao pressionar as setas para cima e para baixo. A bola se move ao longo do eixo X e Y, com sua velocidade ajustada de acordo com as colisões com as barras e as paredes laterais.
+
+
+
 
 [![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
 
