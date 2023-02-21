@@ -32,6 +32,9 @@ As barras dos jogadores se movem na vertical ao pressionar as setas para cima e 
 
 
 
+
+Se a bola sair pela esquerda da tela, o jogador 2 ganha um ponto e a bola é colocada no centro da tela, pronta para recomeçar. O placar é atualizado automaticamente.
+
 [![](https://raw.githubusercontent.com/cardosource/PingPong/main/inicio.png)](https://www.sfml-dev.org/download.php)
 
 
