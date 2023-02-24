@@ -58,7 +58,7 @@ Ganha ponto ao ultrapssar o limite do adversário (a) sem que ocorra a rebater o
 
 # Conclusão
 
-
+Este é um projeto simples de jogo de Pong que pode ser utilizado como base para o desenvolvimento de jogos mais complexos ou como exemplo de utilização da biblioteca SFML.
 
 ![](https://img.shields.io/badge/c%2B%2B-9.4.0-blue)
 ![](https://img.shields.io/badge/sfml-2.5.1-yellow)
