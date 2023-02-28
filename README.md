@@ -44,7 +44,7 @@ O jogo termina quando um dos jogadores alcança uma determinada pontuação prev
 
 <br/>
 
-Ganha ponto ao ultrapssar o limite do adversário (a) sem que ocorra a rebater o objeti lançado.
+
 
 <div>
     <img src="https://raw.githubusercontent.com/cardosource/PingPong/main/pontoplay1.png" width="300"/>
@@ -62,3 +62,5 @@ Este é um projeto simples de jogo de Pong que pode ser utilizado como base para
 
 ![](https://img.shields.io/badge/c%2B%2B-9.4.0-blue)
 ![](https://img.shields.io/badge/sfml-2.5.1-yellow)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) x
